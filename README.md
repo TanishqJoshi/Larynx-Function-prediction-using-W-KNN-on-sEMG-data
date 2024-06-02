@@ -1,1 +1,1 @@
-# Larynx-Function-prediction-using-W-KNN-on-sEMG-data
+# Larynx Function prediction using W-KNN on sEMG data
