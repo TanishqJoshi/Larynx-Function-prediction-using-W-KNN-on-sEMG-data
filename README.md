@@ -1,4 +1,5 @@
 # Larynx Function prediction using W-KNN on sEMG data
+View our Research Paper: <a href="https://drive.google.com/file/d/1ZvOu_ttgiSXMoubYeu3OfZtlYleTAcrv/view">Click here</a>
 Key Points:
 <ul>
   <li>The study aimed to analyze surface electromyography (EMG) signals from the larynx of control participants and individuals with total laryngectomy (TL), encompassing four actions: swallowing, coughing, speaking, and random movements.</li>
